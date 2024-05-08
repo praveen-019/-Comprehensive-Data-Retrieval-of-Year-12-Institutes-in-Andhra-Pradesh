@@ -19,13 +19,13 @@ Utilized a hierarchical approach, starting from mandals, to gather comprehensive
 Developed a function to extract all mandals present in a particular district.
 Stored mandal information in a list and called the retrieveCollegeFromMandal function for each mandal to collect college data.
 
-#Execution:
+## Execution:
 Initiated data retrieval from the district level, progressing downwards to mandals and then to individual colleges.
 Implemented error handling to manage cases where tables or required data were not found on web pages.
 
-#Results:
+## Results:
 Successfully retrieved comprehensive data on Year 12 educational institutes in Andhra Pradesh.
 Organized data into a CSV file, including college name, location/address, contact number, and email ID.
 
-#Conclusion:
+## Conclusion:
 This project demonstrated the effective use of web scraping techniques to gather detailed information on Year 12 educational institutes in Andhra Pradesh. By systematically navigating through districts, mandals, and colleges, the project achieved comprehensive coverage. The collected data serves as a valuable resource for educational research, analysis, and decision-making processes.

@@ -1,15 +1,16 @@
 # -Comprehensive-Data-Retrieval-of-Year-12-Institutes-in-Andhra-Pradesh
 
-#Objective:
+# Objective:
 To collect information like (Name of the Institute, Location/ Address, Contact Number, Email ID) on Junior Colleges/High Schools/Private Institutes offering Year 12 education in Andhra Pradesh.
 
-#Methodology:
+# Methodology:
 
-#Web Scraping:
+# Web Scraping:
 Utilized Python's requests library to send GET requests to the official website of the Board of Intermediate Education, Andhra Pradesh (BIEAP).
 Employed BeautifulSoup for HTML parsing to extract relevant information from the web pages.
-#Data Retrieval Functions:
-##Function_1: retrieveInfoFromCollege
+
+# Data Retrieval Functions:
+## Function_1: retrieveInfoFromCollege
 Developed a function to retrieve information (college name, location, phone number) from the official website of the Board of Intermediate Education, Andhra Pradesh (BIEAP) for a given college name.
 Extracted relevant information and formatted it before adding it to the CSV file.
 ##Function_2: retrieveCollegeFromMandal

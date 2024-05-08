@@ -24,6 +24,8 @@ Initiated data retrieval from the district level, progressing downwards to manda
 Implemented error handling to manage cases where tables or required data were not found on web pages.
 
 ## Results:
+![image](https://github.com/praveen-019/-Comprehensive-Data-Retrieval-of-Year-12-Institutes-in-Andhra-Pradesh/assets/72589374/8d8f56f0-c00b-45b6-8297-d37d5f940a5e)
+
 Successfully retrieved comprehensive data on Year 12 educational institutes in Andhra Pradesh.
 Organized data into a CSV file, including college name, location/address, contact number, and email ID.
 
